@@ -10,7 +10,7 @@ _Explanation of hardware ordering process by [Stadtfunk](https://stadtfunk.net/)
 
 ### Request
 
-To request new hardware you have to create an [Issue](#). Use the template to enter the necessary information. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
+To request new hardware you have to create an [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=). Use the template to enter the necessary information. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
 
 ### Decision
 
