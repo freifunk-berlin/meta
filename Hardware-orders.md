@@ -20,9 +20,9 @@ As soon as there are two approvals (👍) on the issue, it is accepted. If there
 
 The [Stadtfunk-Team](#stadtfunk-team) reserves the right to refuse requests regardless of the decision if they do not meet the purpose of the non-profit status of the gGmbH.
 
-### Waiting time
+### Next steps
 
-Once a week the issues are reviewed by the [Stadtfunk-Team](#stadtfunk-team). Some requests can be fulfilled directly because the products are in [stock](#). New purchases are not made every week, but rather multiple orders are attempted to be placed together. Additionally, it is dependent on vendor availability and delivery capabilities.
+Once a week the issues are reviewed by the [Stadtfunk-Team](#stadtfunk-team). Some requests can be fulfilled directly because the products are in [stock](/Hardware-stock.md). New purchases are not made every week, but rather multiple orders are attempted to be placed together. Additionally, it is dependent on vendor availability and delivery capabilities.
 The current state of the process is commented in the issues and represented by the [labels](https://github.com/freifunk-berlin/meta/labels) in the issue:
 
 - Accepted
