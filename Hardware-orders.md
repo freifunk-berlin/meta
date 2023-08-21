@@ -14,7 +14,7 @@ To request new hardware you have to create an [Issue](https://github.com/freifun
 
 ### Decision
 
-The decision about accepting hardware requests is made by the active people from the community. Specifically, this means everyone who is part of the organization [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) on Github. A maximum budget of 12,000€ can be spent per year, the current balance is documented in this document. The decision should mainly consider the benefit for the expansion of a stable network. Discussions about the requests can be made in the comments of the issue, or on the [Freifunk meetings](https://wiki.freifunk.net/Berlin:Treffen).
+The decision about accepting hardware requests is made by the active people from the community. Specifically, this means everyone who is part of the organization [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) on Github. A maximum budget of 12,000€ can be spent per year, the current balance is documented in this document. The decision should mainly consider the benefit for the expansion of a stable network. Discussions about the requests can be made in the comments of the issue, or at the first [Freifunk meeting](https://wiki.freifunk.net/Berlin:Treffen) of the month.
 
 As soon as there are two approvals (👍) on the issue, it is accepted. If there is not enough approval after one month, or there were two rejections (👎), the request will be rejected.
 
@@ -36,11 +36,12 @@ The confirmed hardware can always be picked up on tuesday afternoons at the Stad
 
 ## Other options
 
-It is not always necessary to order new devices. In the [freifunk-room](https://wiki.freifunk.net/Berlin:Standorte:Haus-der-Statistik#Freifunk_Berlin_im_Haus_der_Statistik) there is a collection of old devices that can be used for free. It's best to look there first to see if you can find something suitable. Use the [regular meetings](https://wiki.freifunk.net/Berlin:Treffen) or ask in the [chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
+It is not always necessary to order new devices. In the [freifunk-room](https://wiki.freifunk.net/Berlin:Standorte:Haus-der-Statistik#Freifunk_Berlin_im_Haus_der_Statistik) there is a collection of old devices that can be used for free. It's best to look there first to see if you can find something suitable. Use the [regular meetings](https://wiki.freifunk.net/Berlin:Treffen) (preferably the first of the month as the others tend to drop out) or ask in the [chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
 
 ## Preferred shops
 
 When looking for new products, it makes sense to look preferably at these suppliers. With these there was already experience at Stadtfunk, or there are already accounts, which makes the ordering process easier. If there is a significantly cheaper offer elsewhere, that is of course also good to know.
+If you want to install Freifunk Firmware on the device, please always check before if the exact model/series in the store is supported.
 
 - [Getic](https://www.getic.com/)
 - [Obeta](https://obeta.de/)
