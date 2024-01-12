@@ -1,6 +1,6 @@
 # Hardware orders Stadtfunk // Hardware-Bestellungen Stadtfunk
 
-2023 Budget: **1.000€**
+2024 Budget: **12.000€**
 
 ---
 
@@ -12,7 +12,7 @@ _Explanation of hardware ordering process by [Stadtfunk](https://stadtfunk.net/)
 
 #### Request
 
-Hardware for less than 100€ can be requested directly from Stadtfunk and issued without formalities. The expenses of such requests are documented in the [issue for minor expenses](https://github.com/freifunk-berlin/meta/issues/23).
+Hardware for less than 100€ can be requested directly from Stadtfunk and issued without formalities. The expenses of such requests are documented in the [issue for minor expenses](https://github.com/freifunk-berlin/meta/issues/27).
 
 
 If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, the formal route via a ticket request must be chosen.
@@ -74,7 +74,7 @@ Erläuterung des Hardware-Bestellprozesses durch [Stadtfunk](https://stadtfunk.n
 
 #### Antrag
 
-Hardware für weniger als 100€ kann direkt beim Stadtfunk beantragt und ohne Formalitäten ausgegeben werden. Die Kosten für solche Anträge werden in dem [Issue für geringfügige Ausgaben](https://github.com/freifunk-berlin/meta/issues/23) dokumentiert.
+Hardware für weniger als 100€ kann direkt beim Stadtfunk beantragt und ohne Formalitäten ausgegeben werden. Die Kosten für solche Anträge werden in dem [Issue für geringfügige Ausgaben](https://github.com/freifunk-berlin/meta/issues/27) dokumentiert.
 
 Besteht der Eindruck, dass hierfür eine Community Entscheidung sinnvoll wäre, oder für alles, was teurer als 100€ ist, muss der formale Weg über eine Ticketanfrage gewählt werden.
 Für dieses gemeinschaftliche Zustimmungsverfahren musst du ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) erstellen. Verwende die Vorlage, um die erforderlichen Informationen anzugeben. Prüfe zunächst, ob eine der [anderen Optionen](#other-options) für die Hardwarebeschaffung sinnvoller ist und verwende nach Möglichkeit einen der [bevorzugten Shops](#preferred-shops).
