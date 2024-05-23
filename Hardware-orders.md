@@ -1,6 +1,6 @@
 # Hardware orders Stadtfunk // Hardware-Bestellungen Stadtfunk
 
-2024 Budget: **10139€**
+2024 Budget: **9998€**
 
 ---
 
