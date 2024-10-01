@@ -2,7 +2,7 @@
 name: Hardware request
 about: Request to order new hardware.
 title: ''
-labels: ''
+labels: 'Hardware request'
 assignees: ''
 
 ---
@@ -16,7 +16,7 @@ _Where the hardware will be installed_
 
 
 **Use:**
-_For the site/for the entire network_
+_Please take a minute to explain how the network would benefit from this upgrade. Giving some context helps others understand your plan and makes it easier for them to upvote your request_
 
 
 **Devices List:**
