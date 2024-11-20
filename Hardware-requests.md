@@ -66,7 +66,7 @@ Erläuterung des Hardware-Bestellprozesses durch [Stadtfunk](https://stadtfunk.n
 
 #### Antrag
 
-Du musst ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) eröffnen, um eine Anfrage zu erstellen. Du kannst nur ein Problem pro Standort gleichzeitig erstellen. Prüfe zunächst, ob eine der [anderen Optionen](#weitere-optionen) für die Hardwarebeschaffung sinnvoller ist, und verwende nach Möglichkeit einen der [bevorzugten Shops](#bevorzugte-shops).
+Du musst ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) eröffnen, um eine Anfrage zu erstellen. Du kannst nur eine Anfrage pro Standort gleichzeitig erstellen. Prüfe zunächst, ob eine der [anderen Optionen](#weitere-optionen) für die Hardwarebeschaffung sinnvoller ist, und verwende nach Möglichkeit einen der [bevorzugten Shops](#bevorzugte-shops).
 Wenn der Eindruck besteht, dass eine Entscheidung der Community dafür gut wäre, oder für etwas, das teurer als 100 € ist, benötigst du eine Bestätigung. Andere kleinere Anfragen werden automatisch angenommen. 
 
 #### Entscheidung
