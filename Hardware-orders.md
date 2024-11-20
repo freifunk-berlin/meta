@@ -36,7 +36,7 @@ The confirmed hardware can always be picked up on tuesday afternoons at the Stad
 
 ### Other options
 
-It is not always necessary to order new devices. In the [freifunk-room](https://wiki.freifunk.net/Berlin:Standorte:Haus-der-Statistik#Freifunk_Berlin_im_Haus_der_Statistik) there is a collection of old devices that can be used for free. It's best to look there first to see if you can find something suitable. Use the [regular meetings](https://wiki.freifunk.net/Berlin:Treffen) or ask in the [chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
+It is not always necessary to order new devices. There is a collection of old devices that can be used for free. It's best to look there first to see if you can find something suitable. Use the [regular meetings](https://wiki.freifunk.net/Berlin:Treffen) or ask in the [chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
 
 ### Preferred shops
 
@@ -92,7 +92,7 @@ Die bestätigte Hardware kann immer dienstagnachmittags bei Stadtfunk (Kirchhofs
 
 ### Weitere Optionen
 
-Es ist nicht immer notwendig, neue Geräte zu bestellen. Im [Freifunk-Raum](https://wiki.freifunk.net/Berlin:Standorte:Haus-der-Statistik#Freifunk_Berlin_im_Haus_der_Statistik) gibt es eine Sammlung von Altgeräten, die kostenlos genutzt werden können. Schau am besten zuerst dort nach, ob du etwas Passendes finden kannst. Nutz die [Stammtische](https://wiki.freifunk.net/Berlin:Treffen) oder frag im [Chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
+Es ist nicht immer notwendig, neue Geräte zu bestellen. Es gibt auch eine Sammlung von Altgeräten, die kostenlos genutzt werden können. Schau am besten zuerst dort nach, ob du etwas Passendes finden kannst. Nutz die [Stammtische](https://wiki.freifunk.net/Berlin:Treffen) oder frag im [Chat](https://matrix.to/#/#berlin.freifunk.net:matrix.org).
 
 ### Bevorzugte Shops
 
