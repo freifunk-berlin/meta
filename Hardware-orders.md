@@ -28,13 +28,7 @@ The [Stadtfunk-Team](#stadtfunk-team) reserves the right to refuse requests rega
 
 #### Next steps
 
-Once a week the issues are reviewed by the [Stadtfunk-Team](#stadtfunk-team). Some requests can be fulfilled directly because the products are in [stock](/Hardware-stock.md). New purchases are not made every week, but rather multiple orders are attempted to be placed together. Additionally, it is dependent on vendor availability and delivery capabilities.
-The current state of the process is commented in the issues and represented by the [labels](https://github.com/freifunk-berlin/meta/labels) in the issue:
-
-- Accepted
-- Rejected
-- Need for discussion
-- Completed
+Once a week the issues are reviewed by the [Stadtfunk-Team](#stadtfunk-team). Some requests can be fulfilled directly because the products are in [stock](/Hardware-stock.md). New purchases are not made every week, but rather multiple orders are attempted to be placed together. Additionally, it is dependent on vendor availability and delivery capabilities. The current state of the process is commented in the issues.
 
 #### Issue
 
@@ -90,13 +84,7 @@ Das [Stadtfunk-Team](#stadtfunk-team) behält sich das Recht vor, Anträge unabh
 
 #### Nächste Schritte
 
-Einmal pro Woche werden die Anfragen vom [Stadtfunk-Team](#stadtfunk-team) geprüft. Einige Anfragen können direkt erfüllt werden, da die Produkte auf [Lager](/Hardware-stock.md) sind. Neuanschaffungen werden nicht jede Woche getätigt, sondern es wird versucht, mehrere Bestellungen zusammen zu platzieren. Außerdem hängt es von der Verfügbarkeit der Lieferanten und der Lieferfähigkeit ab.
-Der aktuelle Stand des Prozesses wird in dem Issue kommentiert und durch die [labels](https://github.com/freifunk-berlin/meta/labels) dargestellt:
-
-- Angenommen
-- Abgelehnt
-- Bedarf für Diskussion
-- Erledigt
+Einmal pro Woche werden die Anfragen vom [Stadtfunk-Team](#stadtfunk-team) geprüft. Einige Anfragen können direkt erfüllt werden, da die Produkte auf [Lager](/Hardware-stock.md) sind. Neuanschaffungen werden nicht jede Woche getätigt, sondern es wird versucht, mehrere Bestellungen zusammen zu platzieren. Außerdem hängt es von der Verfügbarkeit der Lieferanten und der Lieferfähigkeit ab. Der aktuelle Stand des Prozesses wird in dem Issue kommentiert.
 
 #### Ausgabe
 
