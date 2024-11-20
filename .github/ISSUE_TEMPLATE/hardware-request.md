@@ -20,10 +20,20 @@ _Please take a minute to explain how the network would benefit from this upgrade
 
 
 **Devices List:**
-_Concrete products with amount and link_
+_Concrete products with store price if they need to be bought or estimated value for reused devices_
 
 
 **Total cost:**
-_Accumulated by current purchase price_
+_Accumulated prices_
 
-(See [instructions](https://github.com/freifunk-berlin/meta/blob/main/Hardware-orders.md))
+
+**Checklist:**
+_Internal for Stadtfunk, do not remove_
+
+- [ ] Confirm decission
+- [ ] Order devices and checkin (optional)
+- [ ] Checkout devices
+- [ ] Update budget
+
+(See [instructions](https://github.com/freifunk-berlin/meta/blob/main/Hardware-requests.md))
+
