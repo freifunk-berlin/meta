@@ -11,14 +11,15 @@ _Explanation of hardware ordering process by [Stadtfunk](https://stadtfunk.net/)
 ### Procedure
 
 #### Request
+
 You need to create an [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) to create a request. You can only create one issue per location at a time. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
 If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, you need an approval. Other minor requests are automatically accapted. 
 
 #### Decision
 
-The decision about accepting hardware ticket requests is made by the active people from the community. Specifically, this means everyone who is part of the organization [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) on Github, except the [Stadtfunk-Team](#stadtfunk-team). A maximum budget of 12,000€ can be spent per year, the current balance is documented in this document. The decision should mainly consider the benefit for the expansion of a stable network. Discussions about the requests can be made in the comments of the issue, or at the first [Freifunk meeting](https://wiki.freifunk.net/Berlin:Treffen) of the month.
+The decision about accepting hardware ticket requests is made by the active people from the community. Specifically, this means everyone who is part of the organization [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) on Github, except the [Stadtfunk-Team](#stadtfunk-team) and the person that opened the request. A maximum budget of 12,000€ can be spent per year, the current balance is documented in this document. The decision should mainly consider the benefit for the expansion of a stable network. Discussions about the requests can be made in the comments of the issue, or at the first [Freifunk meeting](https://wiki.freifunk.net/Berlin:Treffen) of the month.
 
-As soon as there are two approvals (👍) on the issue, it is accepted. If there is not enough approval after one month, or there were two rejections (👎), the request will be rejected. The person who opened the issue is not allowd to vote.
+As soon as there are two approvals (👍) on the issue, it is accepted. If there is not enough approval after one month, or there were two rejections (👎), the request will be rejected.
 
 The [Stadtfunk-Team](#stadtfunk-team) reserves the right to refuse requests regardless of the decision if they do not meet the purpose of the non-profit status of the gGmbH.
 
@@ -70,9 +71,9 @@ Wenn der Eindruck besteht, dass eine Entscheidung der Community dafür gut wäre
 
 #### Entscheidung
 
-Die Entscheidung über die Annahme von Hardware-Ticket-Anfragen wird von den Aktiven der Community getroffen. Konkret sind damit alle gemeint, die Teil der Organisation [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) auf Github sind, außer dem [Stadtfunk-Team](#stadtfunk-team). Es können maximal 12.000€ pro Jahr ausgegeben werden, der aktuelle Stand ist in dieser Datei dokumentiert. Bei der Entscheidung sollte vor allem der Nutzen für den Ausbau eines stabilen Netzwerks berücksichtigt werden. Diskussionen über die Anträge können in den Kommentaren der Ausgabe oder beim ersten [Freifunk-Treffen](https://wiki.freifunk.net/Berlin:Treffen) des Monats geführt werden.
+Die Entscheidung über die Annahme von Hardware-Ticket-Anfragen wird von den Aktiven der Community getroffen. Konkret sind damit alle gemeint, die Teil der Organisation [Freifunk-Berlin](https://github.com/orgs/freifunk-berlin/people) auf Github sind, außer dem [Stadtfunk-Team](#stadtfunk-team) und der Person, welche die Anfrage erstellt hat. Es können maximal 12.000€ pro Jahr ausgegeben werden, der aktuelle Stand ist in dieser Datei dokumentiert. Bei der Entscheidung sollte vor allem der Nutzen für den Ausbau eines stabilen Netzwerks berücksichtigt werden. Diskussionen über die Anträge können in den Kommentaren der Ausgabe oder beim ersten [Freifunk-Treffen](https://wiki.freifunk.net/Berlin:Treffen) des Monats geführt werden.
 
-Sobald zwei Zustimmungen (👍) zu einem Thema vorliegen, wird es angenommen. Wenn nach einem Monat nicht genügend Zustimmungen vorliegen oder es zwei Ablehnungen (👎) gab, wird der Antrag abgelehnt. Die Person die das Issue erstellt hat, darf nicht an der Abstimmung teilnehmen.
+Sobald zwei Zustimmungen (👍) zu einem Thema vorliegen, wird es angenommen. Wenn nach einem Monat nicht genügend Zustimmungen vorliegen oder es zwei Ablehnungen (👎) gab, wird der Antrag abgelehnt.
 
 Das [Stadtfunk-Team](#stadtfunk-team) behält sich das Recht vor, Anträge unabhängig von der Entscheidung abzulehnen, wenn sie nicht dem Zweck der Gemeinnützigkeit der gGmbH entsprechen.
 
