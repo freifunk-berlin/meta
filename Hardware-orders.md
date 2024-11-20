@@ -62,6 +62,7 @@ If you want to install Freifunk Firmware on the device, please always check befo
 The Stadtfunk-team takes care of ordering and issuing hardware. Currently the following people are part of the team:
 - [Hener](https://matrix.to/#/@hener:matrix.org)
 - [Lino](https://matrix.to/#/@noxil:systemli.org)
+- [Nio](https://github.com/orgs/stadtfunk/people/spinat3000)
 - [Schmars](https://matrix.to/#/@schmars:matrix.org)
 
 ---
@@ -123,4 +124,5 @@ Wenn du Freifunk-Firmware auf das Gerät aufspielen willst, prüfe bitte immer v
 Das Stadtfunk-Team kümmert sich um die Bestellung und Ausgabe von Hardware. Derzeit sind folgende Personen Teil des Teams:
 - [Hener](https://matrix.to/#/@hener:matrix.org)
 - [Lino](https://matrix.to/#/@noxil:systemli.org)
+- [Nio](https://github.com/orgs/stadtfunk/people/spinat3000)
 - [Schmars](https://matrix.to/#/@schmars:matrix.org)
