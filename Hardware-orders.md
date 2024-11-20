@@ -11,12 +11,8 @@ _Explanation of hardware ordering process by [Stadtfunk](https://stadtfunk.net/)
 ### Procedure
 
 #### Request
-
-Hardware for less than 100€ can be requested directly from Stadtfunk and issued without formalities. The expenses of such requests are documented in the [issue for minor expenses](https://github.com/freifunk-berlin/meta/issues/27).
-
-
-If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, the formal route via a ticket request must be chosen.
-For this community consent process you have to create an [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=). Use the template to enter the necessary information. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
+You need to create an [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) to create a request. You can only create one issue per location at a time. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
+If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, you need an approval. Other minor requests are automatically accapted. 
 
 #### Decision
 
@@ -69,10 +65,8 @@ Erläuterung des Hardware-Bestellprozesses durch [Stadtfunk](https://stadtfunk.n
 
 #### Antrag
 
-Hardware für weniger als 100€ kann direkt beim Stadtfunk beantragt und ohne Formalitäten ausgegeben werden. Die Kosten für solche Anträge werden in dem [Issue für geringfügige Ausgaben](https://github.com/freifunk-berlin/meta/issues/27) dokumentiert.
-
-Besteht der Eindruck, dass hierfür eine Community Entscheidung sinnvoll wäre, oder für alles, was teurer als 100€ ist, muss der formale Weg über eine Ticketanfrage gewählt werden.
-Für dieses gemeinschaftliche Zustimmungsverfahren musst du ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) erstellen. Verwende die Vorlage, um die erforderlichen Informationen anzugeben. Prüfe zunächst, ob eine der [anderen Optionen](#other-options) für die Hardwarebeschaffung sinnvoller ist und verwende nach Möglichkeit einen der [bevorzugten Shops](#preferred-shops).
+Du musst ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) eröffnen, um eine Anfrage zu erstellen. Du kannst nur ein Problem pro Standort gleichzeitig erstellen. Prüfe zunächst, ob eine der [anderen Optionen](#weitere-optionen) für die Hardwarebeschaffung sinnvoller ist, und verwende nach Möglichkeit einen der [bevorzugten Shops](#bevorzugte-shops).
+Wenn der Eindruck besteht, dass eine Entscheidung der Community dafür gut wäre, oder für etwas, das teurer als 100 € ist, benötigst du eine Bestätigung. Andere kleinere Anfragen werden automatisch angenommen. 
 
 #### Entscheidung
 
