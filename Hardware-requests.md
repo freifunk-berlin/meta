@@ -1,6 +1,6 @@
 # Hardware requests
 
-2025 Budget: **12.000€**
+2025 Budget: **11.400€**
 
 ---
 
@@ -13,7 +13,7 @@ _Explanation of hardware ordering process by [Stadtfunk](https://stadtfunk.net/)
 #### Request
 
 You need to create an [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) to create a request. You can only create one issue per location at a time. Check first if one of the [other options](#other-options) for hardware procurement makes more sense and use one of the [preferred-vendors](#preferred-shops) if possible.
-If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, you need an approval. Other minor requests are automatically accapted. 
+If there is the impression that a community decision would be good for this, or for anything more expensive than 100€, you need an approval. Other minor requests are automatically accapted.
 
 #### Decision
 
@@ -67,7 +67,7 @@ Erläuterung des Hardware-Bestellprozesses durch [Stadtfunk](https://stadtfunk.n
 #### Antrag
 
 Du musst ein [Issue](https://github.com/freifunk-berlin/meta/issues/new?assignees=&labels=&projects=&template=hardware-request.md&title=) eröffnen, um eine Anfrage zu erstellen. Du kannst nur eine Anfrage pro Standort gleichzeitig erstellen. Prüfe zunächst, ob eine der [anderen Optionen](#weitere-optionen) für die Hardwarebeschaffung sinnvoller ist, und verwende nach Möglichkeit einen der [bevorzugten Shops](#bevorzugte-shops).
-Wenn der Eindruck besteht, dass eine Entscheidung der Community dafür gut wäre, oder für etwas, das teurer als 100 € ist, benötigst du eine Bestätigung. Andere kleinere Anfragen werden automatisch angenommen. 
+Wenn der Eindruck besteht, dass eine Entscheidung der Community dafür gut wäre, oder für etwas, das teurer als 100 € ist, benötigst du eine Bestätigung. Andere kleinere Anfragen werden automatisch angenommen.
 
 #### Entscheidung
 
