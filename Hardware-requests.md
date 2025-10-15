@@ -1,6 +1,6 @@
 # Hardware requests
 
-2025 Budget: **10.850€**
+2025 Budget: **10.650€**
 
 ---
 
