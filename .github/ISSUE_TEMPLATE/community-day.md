@@ -27,9 +27,9 @@ assignees: ''
 ```md
 ## CommunityDay <Season> <Year> Planung
 
-**[DE]** Die Planung für den nächsten Community Day hat begonnen. Wer mithelfen will fügt sich bitte selbst zu dem verlinkten Issue hinzu. Als erstes müssen wir klären welcher Tag am besten passt. Hier die Abstimmung dazu. In Kürze kommt die Abstimmung zu den Themen für das Treffen. Bitte legt ein [Need for discussion](https://github.com/freifunk-berlin/meta/issues?q=state%3Aopen%20label%3A%22Need%20for%20discussion%22) Issue an, wenn ihr ein weiteres Thema vorschlagen wollt.
+**[DE]** Die Planung für den nächsten Community Day hat begonnen. Wer mithelfen will fügt sich bitte selbst zu dem verlinkten Issue hinzu oder komm in den [Matrix-Chat](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de?via=hacrafu.de&via=systemli.org). Als erstes müssen wir klären welcher Tag am besten passt. Hier die Abstimmung dazu. In Kürze kommt die Abstimmung zu den Themen für das Treffen. Bitte legt ein [Need for discussion](https://github.com/freifunk-berlin/meta/issues?q=state%3Aopen%20label%3A%22Need%20for%20discussion%22) Issue an, wenn ihr ein weiteres Thema vorschlagen wollt.
 
-**[EN]** The planing for the next Community Day has started. If you would like to help, please assign yourself to the linked issue. First, we need to decide which day works best. Here is the poll. The vote on the topics for the meeting will take place shortly. Please create a [Need for discussion](https://github.com/freifunk-berlin/meta/issues?q=state%3Aopen%20label%3A%22Need%20for%20discussion%22) issue if you would like to suggest another topic.
+**[EN]** The planing for the next Community Day has started. If you would like to help, please assign yourself to the linked issue or join the [Matrix-Chat](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de?via=hacrafu.de&via=systemli.org). First, we need to decide which day works best. Here is the poll. The vote on the topics for the meeting will take place shortly. Please create a [Need for discussion](https://github.com/freifunk-berlin/meta/issues?q=state%3Aopen%20label%3A%22Need%20for%20discussion%22) issue if you would like to suggest another topic.
 
 - Issue: <Issue>
 - Deadline: <Deadline>
