@@ -24,9 +24,9 @@ assignees: ''
 ```md
 ## HackDay <Season> <Year> Planung
 
-**[DE]** Die Planung für den nächsten Hack Day hat begonnen. Wer mithelfen will fügt sich bitte selbst zu dem verlinkten Issue hinzu oder komm in den [Matrix-Chat](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de). Als erstes müssen wir klären welcher Tag am besten passt. Hier die Abstimmung dazu.
+**[DE]** Die Planung für den nächsten Hack Day hat begonnen. Wer mithelfen will fügt sich bitte selbst zu dem verlinkten Issue hinzu oder komm in den Matrix-Chat [Work - Community Event Orga](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de). Als erstes müssen wir klären welcher Tag am besten passt. Hier die Abstimmung dazu.
 
-**[EN]** The planing for the next Hack Day has started. If you would like to help, please assign yourself to the linked issue or join the [Matrix-Chat](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de). First, we need to decide which day works best. Here is the poll.
+**[EN]** The planing for the next Hack Day has started. If you would like to help, please assign yourself to the linked issue or join the Matrix-Chat [Work - Community Event Orga](https://matrix.to/#/!PgFqHkqhaOWQJawfFc:hacrafu.de). First, we need to decide which day works best. Here is the poll.
 
 - Issue: <Issue>
 - Deadline: <Deadline>
