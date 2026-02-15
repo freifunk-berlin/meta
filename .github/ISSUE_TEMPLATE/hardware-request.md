@@ -20,20 +20,11 @@ _Please take a minute to explain how the network would benefit from this upgrade
 
 
 **Devices List:**
-_Concrete products with store price if they need to be bought or estimated value for reused devices_
+_Concrete products with store price if they need to be bought or estimated value for devices from community pool_
 
 
 **Total cost:**
 _Accumulated prices_
 
 
-**Checklist:**
-_Internal for Stadtfunk, do not remove_
-
-- [ ] Confirm decission
-- [ ] Order devices and checkin (optional)
-- [ ] Checkout devices
-- [ ] Update budget
-
-(See [instructions](https://github.com/freifunk-berlin/meta/blob/main/Hardware-requests.md))
-
+(See [instructions](https://berlin.freifunk.net/docs/hardware/community-pool/))
